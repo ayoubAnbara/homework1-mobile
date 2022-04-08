@@ -1,6 +1,6 @@
 # homework1-mobile
 
-## Rapport:
+## Screenshots:
 
 ![welcome](https://user-images.githubusercontent.com/40923656/162350496-13aa9599-fab5-446d-a0fb-4ca7bd12e96b.jpg)
 
